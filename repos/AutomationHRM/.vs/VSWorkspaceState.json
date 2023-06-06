@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AutomationHRM",
+    "\\AutomationHRM\\BaseClass",
+    "\\AutomationHRM\\Features",
+    "\\AutomationHRM\\PageClass",
+    "\\AutomationHRM\\StepDefinitions"
+  ],
+  "SelectedNode": "\\AutomationHRM\\Features\\SuccessfulLogin.feature",
+  "PreviewInSolutionExplorer": false
+}

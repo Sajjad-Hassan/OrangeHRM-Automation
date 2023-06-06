@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\repos",
+    "\\repos\\AutomationHRM",
+    "\\repos\\AutomationHRM\\AutomationHRM",
+    "\\repos\\AutomationHRM\\AutomationHRM\\BaseClass",
+    "\\repos\\AutomationHRM\\AutomationHRM\\Features",
+    "\\repos\\AutomationHRM\\AutomationHRM\\PageClass",
+    "\\repos\\AutomationHRM\\AutomationHRM\\StepDefinitions"
+  ],
+  "SelectedNode": "\\repos\\AutomationHRM\\AutomationHRM\\Features\\SuccessfulLogin.feature",
+  "PreviewInSolutionExplorer": false
+}
